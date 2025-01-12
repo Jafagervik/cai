@@ -1,0 +1,6 @@
+BasedOnStyle: LLVM
+Language: C
+Standard: C99
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
